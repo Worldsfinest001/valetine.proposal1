@@ -2,20 +2,20 @@
 let isPidgin = true;
 
 const pidginMessages = [
-    "Adeola baby, why you dey run? Our kids dey wait! 👶👶",
+    "Addie 🐔, why you dey run? Our kids dey wait! 👶👶",
     "My future baby mama, you still dey form?",
-    "See as you dey do like Agege bread! 😂",
+    "Abeg na 😂",
     "This love strong pass your shakara! ❤️",
     "Baby no dey do me strong thing na! 💪",
     "Na me be your last bus stop! 🚌"
 ];
 
 const englishMessages = [
-    "Adeola my love, why are you running? Our future awaits! 👶👶",
+    "Karimo my love, why are you running? Our future awaits! 👶👶",
     "My future queen, why are you playing hard to get?",
     "Look at you being all precious! 😂",
     "This love is stronger than your resistance! ❤️",
-    "Baby, don't be so difficult! 💪",
+    "Babe, don't be so difficult! 💪",
     "I'm your final destination! 🚌"
 ];
 
@@ -55,12 +55,11 @@ function sayYes() {
             <h1>Yeeeee! 🎉</h1>
             <div class="heart">❤️</div>
             <p class="message">
-                Adeola m! You don make me the happiest person!<br>
-                I love you die! ❤️
+                Ode, why you con dey waste time before?! ❤️
             </p>
             <p class="message">
-                Our love story don officially begin! 😘<br>
-                Make we paint the town red! 🕺
+                I love you too 😘<br>
+               
             </p>
         ` :
         `
